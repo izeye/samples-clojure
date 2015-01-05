@@ -34,3 +34,7 @@
 (println (type my-order))
 
 (println (type {}))
+
+(println (type []))
+
+(println (type [:a 1 :b 2]))
